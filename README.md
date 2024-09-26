@@ -8,9 +8,11 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%234B0082.svg?&style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 
+
+
 ## 📈 GitHub Stats
 ![Asilbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asil07&show_icons=true&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asil07&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asil07&layout=compact&theme=radical)
 
 ## 🚀 Current Projects
