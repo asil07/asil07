@@ -17,7 +17,7 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 
 ## 🚀 Current Projects
 - 🔬 Studying AI for liver cancer detection
-- 🤖 Building machine learning models for pathology images
+- 🤖 Building deep learning models for pathology images
 - 📖 Writing a thesis on AI in digital pathology
 
 ### Connect with me:
