@@ -2,8 +2,6 @@
 I'm a graduate researcher specializing in AI and healthcare with a passion for applying machine learning to medical images. My current focus is on liver cancer detection using deep learning techniques!
 
 
-![Snake animation](https://github.com/asil07/asil07/blob/output/github-contribution-grid-snake.svg) 
-
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=TensorFlow&logoColor=white)
