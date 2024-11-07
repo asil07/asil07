@@ -23,11 +23,10 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 - 🤖 Building deep learning models for pathology images
 - 📖 Writing a thesis on AI in digital pathology
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+Best+Way+to+Predict+the+Future+is+to+Create+It;AI+is+the+Bridge+to+a+Healthier+World;Every+Line+of+Code+Counts)](https://git.io/typing-svg)
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asilbek-yuldashev-4b4783165/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/asil07)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+Best+Way+to+Predict+the+Future+is+to+Create+It;AI+is+the+Bridge+to+a+Healthier+World;Every+Line+of+Code+Counts)](https://git.io/typing-svg)
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=asil07&color=blue)
