@@ -28,6 +28,7 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asilbek-yuldashev-4b4783165/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/asil07)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=asil07&color=blue)
 
 <!--
 **asil07/asil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
