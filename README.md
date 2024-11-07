@@ -4,7 +4,7 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/asil07/asil07/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/asil07/asil07/blob/github-contribution-grid-snake.svg)
 
 
 ## 🔧 Technologies & Tools
