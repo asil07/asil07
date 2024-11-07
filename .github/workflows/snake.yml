@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-        
+        uses: actions/checkout@v3  # Updated to v3
+
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@0f3cabf  # Using a stable commit
         with:
-          github_user_name: "asil07"
+          github_user_name: "asil07"  # Your GitHub username
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
