@@ -31,8 +31,6 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=asil07&color=blue)
 
-
-
 <!--
 **asil07/asil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
