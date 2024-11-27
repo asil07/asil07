@@ -11,7 +11,6 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 
 
 
-
 ## 📈 GitHub Stats
 ![Asilbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asil07&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asil07&theme=radical)
