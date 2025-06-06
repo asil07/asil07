@@ -1,6 +1,5 @@
 # Hi there, I'm Asilbek 👋
 I'm a graduate researcher specializing in AI and healthcare with a passion for applying machine learning to medical images. My current focus is on liver cancer detection using deep learning techniques!
-
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 ![snake gif](https://github.com/asil07/asil07/blob/main/.github/workflows/github-contribution-grid-snake.svg)
@@ -9,7 +8,6 @@ I'm a graduate researcher specializing in AI and healthcare with a passion for a
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=deep-learning&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%234B0082.svg?&style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-
 
 
 ## 📈 GitHub Stats
